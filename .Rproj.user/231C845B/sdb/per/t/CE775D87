@@ -1,12 +1,12 @@
 {
-    "contents" : "---\ntitle: \"Helloworld\"\nauthor: \"John Mark Grubb\"\ndate: \"Friday, September 08, 2014\"\noutput: html_document\n---\n\n### This is a markdown file\n\n\n",
+    "contents" : "---\ntitle: \"Helloworld\"\nauthor: \"John Mark Grubb\"\ndate: \"Friday, September 08, 2014\"\noutput: html_document\n---\n\n### This is a markdown file\n\n##Push up to github!\n\n\n",
     "created" : 1410231003145.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2286991115",
+    "hash" : "3008758524",
     "id" : "CE775D87",
-    "lastKnownWriteTime" : 1410231033,
+    "lastKnownWriteTime" : 1410294866,
     "path" : "C:/Documents and Settings/jmgrubb/datasciencecoursera/HelloWorld.md",
     "project_path" : "HelloWorld.md",
     "properties" : {
